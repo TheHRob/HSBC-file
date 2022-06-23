@@ -1,0 +1,1 @@
+(Test-Connection -comp $computername -Count 1).ipv4address.ipaddressToString
